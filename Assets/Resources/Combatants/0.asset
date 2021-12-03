@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4ac652ab8df6c415abc166ccf2ac27a5, type: 3}
+  m_Name: 0
+  m_EditorClassIdentifier: 
+  combatantName: Gladiator
+  image: {fileID: 21300000, guid: ed220946dfe15431e9a1933e60345a01, type: 3}
+  health: 5
+  attack: 2
+  defense: 2
+  effect: none
+  amountInDeck: 10
+  stars: 1
